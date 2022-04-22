@@ -2,6 +2,8 @@ import * as React from "react";
 import { Helmet } from "react-helmet";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
+import "@fontsource/crimson-text" // Defaults to weight 400 with all styles included.
+import "@fontsource/alice" // Defaults to weight 400 with all styles included.
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
