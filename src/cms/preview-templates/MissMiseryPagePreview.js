@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { TheJokesPageTemplate } from '../../templates/the-jokes-page'
+import { MissMiseryPageTemplate } from '../../templates/miss-misery-page'
 
-const TheJokesPagePreview = ({ entry, widgetFor }) => (
-  <TheJokesPageTemplate
+const MissMiseryPagePreview = ({ entry, widgetFor }) => (
+  <MissMiseryPageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
   />
 )
 
-TheJokesPagePreview.propTypes = {
+MissMiseryPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default TheJokesPagePreview
+export default MissMiseryPagePreview
