@@ -1,19 +1,10 @@
 ---
-templateKey: 'courses-page'
+templateKey: courses-page
 path: /courses
 title: Courses
 ---
-### It's a thing you can sign up for
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Changing Your Truth
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Adapted from a highly popular course Thomas taught at George Brown College in Toronto, this course synthesizes psychology and literary technique to help you write, and then rewrite, Your Big Story. Though Thomas is not a mental health professional, the emphasis is as much on the therapeutic, self-actualizing, and self-discovery aspects of expressing yourself as much as the final product of the writing. Drawing on contemporary psychological theory about how a major component of your personality is shaped by “self-defining life narratives” that you tell yourself (“A new Big Five: Fundamental principles for an integrative science of personality,” Dan McAdams and Jennifer Pals, 2006) and the growing trend over the last two decades of what the literary world calls “autofiction,” as well as a surprisingly deep look at what it can mean to "edit" a narrative, we look at what stories exactly we are telling ourselves about ourselves, and the very real and tangible possibility that you can change the story you tell yourself, and therefore your change your self, and life.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Drawing from selections of writing by MFK Fisher, Zadie Smith, Joan Didion, Eileen Myles, James Baldwin, Lucy Grealy, Jhumpa Lahiri, Kiese Laymon, and Matias Viegener, we will use a variety of writing and revising exercises, as well as techniques adapted from “reminiscence therapy,” to create a story of your life you may not otherwise have thought of.
