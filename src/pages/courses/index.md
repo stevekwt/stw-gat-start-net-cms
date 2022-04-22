@@ -1,5 +1,5 @@
 ---
-templateKey: 'courses-page'
+templateKey: courses-page
 path: /courses
 title: Courses
 image: /img/jumbotron.jpg
