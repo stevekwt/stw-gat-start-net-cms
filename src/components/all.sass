@@ -138,3 +138,31 @@ $menu-label-color: $white-ter
     text-align: center
     max-width: 70%
     margin: 0 0 1em
+
+// skwt styles
+.navbar-burger span
+  height: 2px
+
+.navbar > .container
+  flex-direction: column
+
+#navMenu .navbar-item:first-of-type
+  padding-left: 0
+
+body
+  font-family: "Palatino Linotype","Book Antiqua","Palatino","serif"
+
+.site-text-logo
+  font-family: Crimson Text
+  font-size: 3rem
+
++tablet-only
+  .site-text-logo
+    font-size: 2rem
+
++mobile
+  .site-text-logo
+    font-size: 1rem
+
+.site-text-logo:hover
+  color: black !important
